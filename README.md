@@ -34,11 +34,11 @@ Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des 
 
 ## 🚀 **Projets Notables**
 
-### [🌟 Extimateur d'Idée](https://github.com/KassaMalipita/Extimateur-d-Idee)
+### [🌟 Extimateur d'Idée](https://github.com/K0lux/Extimateur-d-Idee)
 Une application mobile qui estime des budgets pour des idées ou projets, intègre une évaluation esthétique et propose des recommandations adaptées au contexte africain.  
 **Technologies** : Flutter, Firebase, Intelligence Artificielle (OpenAI).  
 
-### [🌐 NetUnify](https://github.com/KassaMalipita/NetUnify)
+### [🌐 NetUnify](https://github.com/K0lux/NetUnify)
 Un SaaS innovant pour la gestion d'accès internet via Mikrotik, conçu avec une architecture microservices performante.  
 **Technologies** : Rust (backend), React.js (frontend).  
 
