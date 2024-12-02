@@ -42,8 +42,8 @@ Une application mobile qui estime des budgets pour des idées ou projets, intèg
 Un SaaS innovant pour la gestion d'accès internet via Mikrotik, conçu avec une architecture microservices performante.  
 **Technologies** : Rust (backend), React.js (frontend).  
 
-### [🔧 Système de Réparation Xino Xpress](https://github.com/KassaMalipita/Xino-Xpress)
-Une solution de gestion pour une petite structure de réparation, intégrant des fonctionnalités avancées comme la reconnaissance faciale et vocale.  
+### [🔧 Système de Réparation Xino Xpress](https://github.com/K0lux/Systeme_de_gestion_centraliser_des_reparateurs)
+Une solution de gestion pour une petite structure de réparation, intégrant des fonctionnalités avancées comme la reconnaissance d'empreinte digitale et Voici to Text.  
 **Technologies** : Flutter, Firebase.  
 
 ---
