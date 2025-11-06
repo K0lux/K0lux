@@ -18,35 +18,19 @@ Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des 
 ## 🛠️ **Compétences Techniques**
 
 ### Backend
-- 🦀 **Rust** : Développement de services backend performants et sécurisés.  
+- 🦀 **Golang** : Développement de services backend performants et sécurisés.  
 - ☕ **Java** : Expertise en **Spring Boot** pour les API REST et **JavaFX** pour les applications de bureau.  
 - 🐍 **Python** : Création d'applications web scalables avec **Flask** et **Django**.  
 
 ### Frontend
-- ⚛️ **React.js** : Développement d'interfaces utilisateur modernes et réactives.  
+- ⚛️ **Next.js** : Développement d'interfaces utilisateur modernes et réactives.  
 - 🅰️ **Angular** : Applications web modulaires et dynamiques.  
 
 ### Mobile
 - 🎯 **Dart (Flutter)** : Applications multiplateformes Android/iOS avec une performance native.  
 - 📱 **C# (Xamarin Maui)** : Applications natives adaptées à tous les environnements.  
 
----
 
-## 🚀 **Projets Notables**
-
-### [🌟 Extimateur d'Idée](https://github.com/K0lux)
-Une application mobile qui estime des budgets pour des idées ou projets, intègre une évaluation esthétique et propose des recommandations adaptées au contexte africain.  
-**Technologies** : Flutter, Firebase, Intelligence Artificielle (OpenAI).  
-
-### [🌐 NetUnify](https://github.com/K0lux)
-Un SaaS innovant pour la gestion d'accès internet via Mikrotik, conçu avec une architecture microservices performante.  
-**Technologies** : Rust (backend), React.js (frontend).  
-
-### [🔧 Système de Réparation Xino Xpress](https://github.com/K0lux/Systeme_de_gestion_centraliser_des_reparateurs)
-Une solution de gestion pour une petite structure de réparation, intégrant des fonctionnalités avancées comme la reconnaissance d'empreinte digitale et Voici to Text.  
-**Technologies** : Flutter, Firebase.  
-
----
 
 ## 🛠️ **Services Proposés**
 
