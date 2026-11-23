@@ -1,34 +1,31 @@
-# 🌟 **Kassa Malipita Luc - Développeur Freelance Polyvalent**
+# **Kassa Malipita Luc - Développeur Freelance Polyvalent**
 
 Bienvenue sur mon espace GitHub !  
-Je suis **Kassa Malipita Luc**, développeur freelance passionné, spécialisé dans la création de solutions logicielles performantes et innovantes. Avec une expertise diversifiée dans les technologies backend, frontend, et mobile, j'ai à cœur de transformer des idées en projets concrets.
+Je suis **Kassa Malipita Luc**, développeur freelance passionné, spécialisé dans la création de solutions logicielles performantes et innovantes. Avec une expertise dans les technologies backend, frontend, et mobile, j'ai à cœur de transformer des idées en projets concrets.
 
 ---
 
-## 💼 **À Propos de Moi**
+## **À Propos de Moi**
 
-### 🎯 **Mission**
+### **Mission**
 Concevoir et développer des solutions personnalisées, robustes, et évolutives en combinant technologies modernes et meilleures pratiques de développement.
 
-### 📍 **Localisation**
+### **Localisation**
 Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des projets ambitieux.
 
 ---
 
-## 🛠️ **Compétences Techniques**
+## **Compétences Techniques**
 
 ### Backend
-- 🦀 **Golang** : Développement de services backend performants et sécurisés.  
-- ☕ **Java** : Expertise en **Spring Boot** pour les API REST et **JavaFX** pour les applications de bureau.  
-- 🐍 **Python** : Création d'applications web scalables avec **Flask** et **Django**.  
+-  **Golang** : Développement de services backend performants et sécurisés.  
+-  **Python** : Création d'applications web scalables avec **Flask** et **Django**.  
 
 ### Frontend
-- ⚛️ **Next.js** : Développement d'interfaces utilisateur modernes et réactives.  
-- 🅰️ **Angular** : Applications web modulaires et dynamiques.  
+- **Next.js** : Développement d'interfaces utilisateur modernes et réactives.  
 
 ### Mobile
-- 🎯 **Dart (Flutter)** : Applications multiplateformes Android/iOS avec une performance native.  
-- 📱 **C# (Xamarin Maui)** : Applications natives adaptées à tous les environnements.  
+- **Dart (Flutter)** : Applications multiplateformes Android/iOS avec une performance native.
 
 
 
@@ -41,7 +38,7 @@ Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des 
 
 ---
 
-## 📖 **Valeurs et Engagements**
+## **Valeurs et Engagements**
 
 - **Excellence** : Priorité à la qualité, la robustesse et la performance.  
 - **Collaboration** : Une communication ouverte et continue avec mes clients.  
@@ -53,7 +50,7 @@ Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des 
 
 - **📧 Email** : [kassaluc9770@gmail.com](mailto:kassaluc9770@gmail.com)  
 - **🔗 LinkedIn** : [Kassa Malipita Luc](https://www.linkedin.com/in/luc-kassa-3b6399285/)  
-- **🐦 Twitter** : [@KassaML](https://x.com/home)  
+- **🐦 X** : [@KassaML](https://x.com/home)  
 
 ---
 
