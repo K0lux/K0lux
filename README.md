@@ -46,11 +46,11 @@ Basé en Afrique, je travaille avec des clients du monde entier pour bâtir des 
 
 ---
 
-## 📫 **Contactez-moi**
+## **Contactez-moi**
 
-- **📧 Email** : [kassaluc9770@gmail.com](mailto:kassaluc9770@gmail.com)  
-- **🔗 LinkedIn** : [Kassa Malipita Luc](https://www.linkedin.com/in/luc-kassa-3b6399285/)  
-- **🐦 X** : [@KassaML](https://x.com/home)  
+- ** Email** : [kassaluc9770@gmail.com](mailto:kassaluc9770@gmail.com)  
+- ** LinkedIn** : [Kassa Malipita Luc](https://www.linkedin.com/in/luc-kassa-3b6399285/)  
+- ** X** : [@KassaML](https://x.com/home)  
 
 ---
 
